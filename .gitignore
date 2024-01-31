@@ -1,3 +1,4 @@
+#file
 *.avi
 *.jpg
 *.bmp
@@ -5,7 +6,14 @@
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
-*.txt
 *.caffemodel
 *.pbtxt
 *.pb
+*.exe
+*.mp4
+
+
+#directory
+/build
+/.vscode
+/CMakeFiles

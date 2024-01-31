@@ -13,7 +13,6 @@ void mask_setTo()
 		cerr << "Image load failed!" << endl;
 		return;
 	}
-
 	src.setTo(Scalar(0, 255, 255), mask);
 	imshow("src", src);
 	imshow("mask", mask);

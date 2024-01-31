@@ -1,11 +1,8 @@
 #include "main.h"
 
-
-/*
 int main(int argc, char* argv[])
 {
-	face();
+	camera_in_video_out();
 	
 	return 0;
 }
-*/
